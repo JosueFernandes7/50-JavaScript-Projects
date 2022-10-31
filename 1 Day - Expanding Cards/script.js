@@ -9,7 +9,7 @@ painel.forEach(painel => {
 
 function removerAtivo() {
   painel.forEach(painel => {
-painel.classList.remove('ativo');
+  painel.classList.remove('ativo');
     
   })
 }
